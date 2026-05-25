@@ -22,14 +22,7 @@ st.set_page_config(page_title="Linear Regression App", layout="wide")
 
 st.title("📈 Linear Regression")
 
-st.write("""
-This app allows you to:
-- Upload a dataset
-- Perform EDA
-- Train a Linear Regression model
-- Evaluate model performance
-- Visualize predictions
-""")
+
 
 # ---------------------------------------------------
 # FILE UPLOAD
