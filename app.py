@@ -20,7 +20,7 @@ from sklearn.metrics import (
 
 st.set_page_config(page_title="Linear Regression App", layout="wide")
 
-st.title("📈 Linear Regression with EDA & Model Evaluation")
+st.title("📈 Linear Regression")
 
 st.write("""
 This app allows you to:
